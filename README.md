@@ -3,7 +3,7 @@
 # 👋 Xin chào, mình là **Đặng Ngọc Quý**
 
 Software Developer · DevOps • 🌍 Việt Nam  
-🔗 <a href="http://dangngocquy.id.vn" target="_blank">Website cá nhân</a>
+🔗 <a href="http://dangngocquy.id.vn" target="_blank" rel="noopener noreferrer">Website cá nhân</a>
 
 <br/>
 
@@ -29,12 +29,12 @@ Software Developer · DevOps • 🌍 Việt Nam
 
 | Dự án | Mô tả |
 |---|---|
-| [checklist_niso](https://github.com/dangngocquy/checklist_niso) | Ứng dụng Checklist nội bộ |
-| [css_niso](https://github.com/dangngocquy/css_niso) | Hệ thống thu thập và quản trị khảo sát cho nhiều thương hiệu/chi nhánh |
-| [maycha_checklist](https://github.com/dangngocquy/maych_checklist) | Hệ thống quản lý checklist và phiếu |
-| [report_nisc](https://github.com/dangngocquy/report_risc) | Hệ thống báo cáo rủi ro |
-| [lucky_draw](https://github.com/dangngocquy/lucky_draw) | Ứng dụng bốc thăm may mắn |
-| [vietinbank_api](https://github.com/dangngocquy/vietinbank_api) | Vietinbank API |
+| <a href="https://github.com/dangngocquy/checklist_niso" target="_blank" rel="noopener noreferrer">checklist_niso</a> | Ứng dụng Checklist nội bộ |
+| <a href="https://github.com/dangngocquy/css_niso" target="_blank" rel="noopener noreferrer">css_niso</a> | Hệ thống thu thập và quản trị khảo sát cho nhiều thương hiệu/chi nhánh |
+| <a href="https://github.com/dangngocquy/maych_checklist" target="_blank" rel="noopener noreferrer">maycha_checklist</a> | Hệ thống quản lý checklist và phiếu |
+| <a href="https://github.com/dangngocquy/report_risc" target="_blank" rel="noopener noreferrer">report_nisc</a> | Hệ thống báo cáo rủi ro |
+| <a href="https://github.com/dangngocquy/lucky_draw" target="_blank" rel="noopener noreferrer">lucky_draw</a> | Ứng dụng bốc thăm may mắn |
+| <a href="https://github.com/dangngocquy/vietinbank_api" target="_blank" rel="noopener noreferrer">vietinbank_api</a> | Vietinbank API |
 
 ---
 
