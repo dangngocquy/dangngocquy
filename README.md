@@ -22,23 +22,20 @@
 
 ## Dự án nổi bật
 
-- [maycha_checklist](https://github.com/dangngocquy/maych_checklist) – Quản lý checklist máy chủ
-- [report_nisc](https://github.com/dangngocquy/report_risc) – Hệ thống báo cáo rủi ro
-- [lucky_draw](https://github.com/dangngocquy/lucky_draw) – Ứng dụng bốc thăm may mắn
-- [vietinbank_api](https://github.com/dangngocquy/vietinbank_api) – Vietinbank API
+| Dự án | Mô tả |
+|---|---|
+| [maycha_checklist](https://github.com/dangngocquy/maych_checklist) | Quản lý checklist máy chủ |
+| [report_nisc](https://github.com/dangngocquy/report_risc) | Hệ thống báo cáo rủi ro |
+| [lucky_draw](https://github.com/dangngocquy/lucky_draw) | Ứng dụng bốc thăm may mắn |
+| [vietinbank_api](https://github.com/dangngocquy/vietinbank_api) | Vietinbank API |
 
 ---
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dangngocquy&show_icons=true&theme=tokyonight" alt="stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquy&layout=compact&theme=tokyonight" alt="top langs" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=dangngocquy&theme=tokyonight&border_radius=10" alt="streak stats"/>
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangngocquy&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquy&layout=compact&theme=tokyonight)
+![Streak Stats](https://streak-stats.demolab.com?user=dangngocquy&theme=tokyonight&border_radius=10)
 
 ---
 
