@@ -35,7 +35,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangngocquy&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquy&layout=compact&theme=tokyonight)
-![Streak Stats](https://streak-stats.demolab.com?user=dangngocquy&theme=tokyonight&border_radius=10)
 
 ---
 
