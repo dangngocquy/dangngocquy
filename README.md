@@ -1,11 +1,3 @@
-# Xin chào, mình là Đặng Ngọc Quý  
-
-💻 **Software Developer | DevOps**  
-🌍 Việt Nam  
-🔗 [Website cá nhân](http://dangngocquy.id.vn)  
-
----
-
 ## Kỹ năng & Công nghệ
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
@@ -35,14 +27,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dangngocquy&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquy&layout=compact&theme=tokyonight)
-
----
-
-## Liên hệ
-
-- 🌍 Website: [dangngocquy.id.vn](http://dangngocquy.id.vn)  
-- 📧 Email: **dangngocquy.dev@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/dangngocquy](https://linkedin.com) *(cập nhật nếu có)*  
 
 ---
 *Cảm ơn bạn đã ghé thăm profile của mình!*
