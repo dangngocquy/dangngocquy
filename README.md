@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Xin chào, mình là **Đặng Ngọc Quý**
+# Xin chào, mình là **Đặng Ngọc Quý**
 
 IT Application Support · Software Developer · DevOps • 🌍 Việt Nam  
 🔗 <a href="http://dangngocquy.id.vn" target="_blank" rel="noopener noreferrer">Website cá nhân</a>
