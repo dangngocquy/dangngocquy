@@ -15,7 +15,6 @@ IT Application Support · Software Developer · DevOps
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff" />
 <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" />
-<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=github-actions&logoColor=fff" />
 <img src="https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=fff" />
 <img src="https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff" />
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=fff" />
