@@ -2,7 +2,7 @@
 
 # 👋 Xin chào, mình là **Đặng Ngọc Quý**
 
-Software Developer · DevOps • 🌍 Việt Nam  
+IT Application Support · Software Developer · DevOps • 🌍 Việt Nam  
 🔗 <a href="http://dangngocquy.id.vn" target="_blank" rel="noopener noreferrer">Website cá nhân</a>
 
 <br/>
