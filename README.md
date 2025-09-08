@@ -2,7 +2,7 @@
 
 # Xin chào, mình là **Đặng Ngọc Quý**
 
-🔗 <a href="http://dangngocquy.id.vn/contact" target="_blank" rel="noopener noreferrer">Website cá nhân</a>
+🔗 <a href="http://dangngocquy.id.vn/contact" target="_blank" rel="noopener noreferrer">Contact Service</a>
 
 <br/>
 
