@@ -1,6 +1,6 @@
 <div align="center">
 
-# Xin chào, mình là **Đặng Ngọc Quý**
+# Xin chào, mình là **Đặng Ngọc Quý (Henry Đặng)**
 
 🔗 <a href="http://dangngocquy.id.vn/contact" target="_blank" rel="noopener noreferrer">Contact Service</a>
 
