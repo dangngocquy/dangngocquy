@@ -87,20 +87,6 @@
 
 ---
 
-### 💡 **Fun Facts**
-
-<div align="center">
-
-- 🔭 Hiện tại đang làm việc với **React** và **Node.js**
-- 🌱 Đang học **Docker** và **Kubernetes**
-- 👯 Sẵn sàng hợp tác trong các dự án **Open Source**
-- 💬 Hỏi mình về **JavaScript**, **Python**, hoặc **System Design**
-- ⚡ Fun fact: Tôi có thể debug code cả ngày mà không mệt!
-
-</div>
-
----
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
   
