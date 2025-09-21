@@ -16,7 +16,7 @@
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style-for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
@@ -32,12 +32,12 @@
 ### **GitHub Stats**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dangngocquy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&text_color=FFFFFF&icon_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquy&layout=compact&langs_count=8&theme=transparent&hide_border=true&text_color=FFFFFF&icon_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dangngocquy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&text_color=2196F3&icon_color=2196F3"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquy&layout=compact&langs_count=8&theme=transparent&hide_border=true&text_color=2196F3&icon_color=2196F3"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangngocquy&theme=transparent&hide_border=true&text_color=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangngocquy&theme=transparent&hide_border=true&text_color=2196F3&sideNums=2196F3&sideLabels=2196F3" alt="GitHub Streak" />
 </div>
 
 ---
@@ -62,7 +62,7 @@
 ### **Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dangngocquy&theme=minimal&hide_border=true&area=true&bg_color=00000000&color=FFFFFF&text_color=FFFFFF&point=FFFFFF" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dangngocquy&theme=minimal&hide_border=true&area=true&bg_color=00000000&color=2196F3&text_color=2196F3&point=2196F3" />
 </div>
 
 ---
@@ -70,7 +70,7 @@
 ### **Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dangngocquy&no-bg=true&no-frame=true&row=1&column=6&title_color=FFFFFF&icon_color=FFFFFF" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dangngocquy&no-bg=true&no-frame=true&row=1&column=6&title_color=2196F3&icon_color=2196F3&margin-w=10" />
 </div>
 
 ---
@@ -80,7 +80,7 @@
 <div align="center">
 
 [![Contact](https://img.shields.io/badge/Contact_Service-FF5722?style=for-the-badge&logo=web&logoColor=white)](http://dangngocquy.id.vn/contact)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dangngocquy)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style-for-the-badge&logo=github&logoColor=white)](https://github.com/dangngocquy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangngocquy.business@gmail.com)
 
 </div>
