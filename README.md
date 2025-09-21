@@ -107,6 +107,6 @@
   
   ### ✨ **Cảm ơn bạn đã ghé thăm profile của mình!** ✨
   
-  ![Visitor Count](https://profile-counter.glitch.me/dangngocquy/count.svg)
+ ![Profile Views](https://komarev.com/ghpvc/?username=dangngocquy&color=brightgreen&style=flat-square&label=Profile+Views)
   
 </div>
