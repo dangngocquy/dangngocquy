@@ -51,7 +51,7 @@
 | [**checklist_niso**](https://github.com/dangngocquy/checklist_niso) | Internal Checklist application with friendly interface | React, Node.js, MongoDB | [<a href="https://css.niso.com.vn:3008/" target="_blank" rel="noopener noreferrer">Demo</a>] |
 | [**css_niso**](https://github.com/dangngocquy/css_niso) | Multi-brand survey collection and management system | Express, MSSQL, Ant Design | [<a href="https://css.niso.com.vn:3008/" target="_blank" rel="noopener noreferrer">Demo</a>] |
 | [**maycha_checklist**](https://github.com/dangngocquy/maycha_checklist) | Automatic check list and voucher management system | Node.js, React, Firebase | [<a href="https://checklist.tamhao.com.vn/" target="_blank" rel="noopener noreferrer">Demo</a>] |
-| [**report_risc**](https://github.com/dangngocquy/report_nisc) | Smart risk reporting system | Python, JavaScript, MongoDB | — |
+| [**report_niso**](https://github.com/dangngocquy/report_niso) | Smart risk reporting system | Python, JavaScript, MongoDB | [<a href="[https://css.niso.com.vn:3008/](https://report.niso.com.vn:3000/)" target="_blank" rel="noopener noreferrer">Demo</a>] |
 | [**lucky_draw**](https://github.com/dangngocquy/lucky_draw) | Lucky draw application with beautiful effects | React, CSS Animation | — |
 | [**vietinbank_api**](https://github.com/dangngocquy/vietinbank_api) | API integration for Vietinbank | Node.js, Express, REST API | — |
 
