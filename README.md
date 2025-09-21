@@ -1,12 +1,12 @@
 <div align="center">
 
-# 👋 **Đặng Ngọc Quý** (Henry Đặng)
+# **Đặng Ngọc Quý** (Henry Đặng)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=IT+Support;Technical+Support;System+Troubleshooting;Hardware+%26+Software+Maintenance;Problem+Solver;Always+Learning+New+Skills" alt="Typing SVG" />
 
 ---
 
-### 🛠️ **Tech Stack & Tools**
+### **Tech Stack & Tools**
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 ---
 
-### 📈 **GitHub Stats**
+### **GitHub Stats**
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dangngocquy&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
@@ -42,18 +42,18 @@
 
 ---
 
-### 🎯 **Featured Projects**
+### **Featured Projects**
 
 <div align="center">
 
-| 🚀 **Project** | 📝 **Description** | 🛠️ **Tech Stack** |
-|---|---|---|
-| [**checklist_niso**](https://github.com/dangngocquy/checklist_niso) | Ứng dụng Checklist nội bộ với giao diện thân thiện | React, Node.js, MongoDB |
-| [**css_niso**](https://github.com/dangngocquy/css_niso) | Hệ thống thu thập và quản trị khảo sát đa thương hiệu | Express, MSSQL, Ant Design |
-| [**maycha_checklist**](https://github.com/dangngocquy/maycha_checklist) | Hệ thống quản lý checklist và phiếu tự động | Node.js, React, Firebase |
-| [**report_risc**](https://github.com/dangngocquy/report_nisc) | Hệ thống báo cáo rủi ro thông minh | Python, JavaScript, MongoDB |
-| [**lucky_draw**](https://github.com/dangngocquy/lucky_draw) | Ứng dụng bốc thăm may mắn với hiệu ứng đẹp | React, CSS Animation |
-| [**vietinbank_api**](https://github.com/dangngocquy/vietinbank_api) | API integration cho Vietinbank | Node.js, Express, REST API |
+| **Project** | **Description** | **Tech Stack** | **Website** |
+|---|---|---|---|
+| [**checklist_niso**](https://github.com/dangngocquy/checklist_niso) | Ứng dụng Checklist nội bộ với giao diện thân thiện | React, Node.js, MongoDB | [Demo](https://css.niso.com.vn:3008/) |
+| [**css_niso**](https://github.com/dangngocquy/css_niso) | Hệ thống thu thập và quản trị khảo sát đa thương hiệu | Express, MSSQL, Ant Design | [Demo](https://css.niso.com.vn:3008/) |
+| [**maycha_checklist**](https://github.com/dangngocquy/maycha_checklist) | Hệ thống quản lý checklist và phiếu tự động | Node.js, React, Firebase | [Demo](https://checklist.tamhao.com.vn/) |
+| [**report_risc**](https://github.com/dangngocquy/report_nisc) | Hệ thống báo cáo rủi ro thông minh | Python, JavaScript, MongoDB | — |
+| [**lucky_draw**](https://github.com/dangngocquy/lucky_draw) | Ứng dụng bốc thăm may mắn với hiệu ứng đẹp | React, CSS Animation | — |
+| [**vietinbank_api**](https://github.com/dangngocquy/vietinbank_api) | API integration cho Vietinbank | Node.js, Express, REST API | — |
 
 </div>
 
@@ -67,7 +67,7 @@
 
 ---
 
-### 🏆 **Achievements**
+### **Achievements**
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=dangngocquy&theme=onedark&no-frame=true&row=1&column=6" />
@@ -75,7 +75,7 @@
 
 ---
 
-### 📫 **Connect With Me**
+### **Connect With Me**
 
 <div align="center">
 
@@ -90,7 +90,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
   
-  ### ✨ **Cảm ơn bạn đã ghé thăm profile của mình!** ✨
+  ### **Cảm ơn bạn đã ghé thăm profile của mình!**
   
  ![Profile Views](https://komarev.com/ghpvc/?username=dangngocquy&color=brightgreen&style=flat-square&label=Profile+Views)
   
