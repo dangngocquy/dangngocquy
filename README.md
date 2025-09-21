@@ -10,6 +10,17 @@
 
 <div align="center">
 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Mobile OS](https://img.shields.io/badge/Mobile%20OS-34A853?style=for-the-badge&logo=android&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-00A1D6?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-FF5722?style=for-the-badge&logo=network&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-00BCD4?style=for-the-badge&logo=openvpn&logoColor=white)
+![Tickets](https://img.shields.io/badge/Tickets-9C27B0?style=for-the-badge&logo=servicenow&logoColor=white)
+![Assets](https://img.shields.io/badge/Assets-2196F3?style=for-the-badge&logo=asset-management&logoColor=white)
+![HW Troubleshoot](https://img.shields.io/badge/HW%20Troubleshoot-8BC34A?style=for-the-badge&logo=tools&logoColor=white)
+![User Support](https://img.shields.io/badge/User%20Support-F44336?style=for-the-badge&logo=support&logoColor=white)
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -24,17 +35,6 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Mobile OS](https://img.shields.io/badge/Mobile%20OS-34A853?style=for-the-badge&logo=android&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-00A1D6?style=for-the-badge&logo=cloudflare&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-FF5722?style=for-the-badge&logo=network&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-00BCD4?style=for-the-badge&logo=openvpn&logoColor=white)
-![Tickets](https://img.shields.io/badge/Tickets-9C27B0?style=for-the-badge&logo=servicenow&logoColor=white)
-![Assets](https://img.shields.io/badge/Assets-2196F3?style=for-the-badge&logo=asset-management&logoColor=white)
-![HW Troubleshoot](https://img.shields.io/badge/HW%20Troubleshoot-8BC34A?style=for-the-badge&logo=tools&logoColor=white)
-![User Support](https://img.shields.io/badge/User%20Support-F44336?style=for-the-badge&logo=support&logoColor=white)
 
 </div>
 
