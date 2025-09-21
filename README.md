@@ -2,7 +2,7 @@
 
 # 👋 **Đặng Ngọc Quý** (Henry Đặng)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Always+learning+new+things" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=IT+Support;Technical+Support;System+Troubleshooting;Hardware+%26+Software+Maintenance;Problem+Solver;Always+Learning+New+Skills" alt="Typing SVG" />
 
 ---
 
@@ -80,9 +80,8 @@
 <div align="center">
 
 [![Contact](https://img.shields.io/badge/Contact_Service-FF5722?style=for-the-badge&logo=web&logoColor=white)](http://dangngocquy.id.vn/contact)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dangngocquy)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dangngocquy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@dangngocquy.id.vn)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangngocquy.business@gmail.com)
 
 </div>
 
