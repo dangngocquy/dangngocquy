@@ -15,13 +15,13 @@
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style-for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style-for-the-badge&logo=mongodb&logoColor=white)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style-for-the-badge&logo=Firebase&logoColor=white)
 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style-for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -70,7 +70,7 @@
 ### **Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dangngocquy&no-bg=true&no-frame=true&row=1&column=6&title_color=2196F3&icon_color=2196F3&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dangngocquy&theme=flat&no-bg=true&no-frame=true&row=1&column=6&title_color=2196F3&icon_color=2196F3&margin-w=10" />
 </div>
 
 ---
@@ -81,7 +81,7 @@
 
 [![Contact](https://img.shields.io/badge/Contact_Service-FF5722?style=for-the-badge&logo=web&logoColor=white)](http://dangngocquy.id.vn/contact)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style-for-the-badge&logo=github&logoColor=white)](https://github.com/dangngocquy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangngocquy.business@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style-for-the-badge&logo=gmail&logoColor=white)](mailto:dangngocquy.business@gmail.com)
 
 </div>
 
