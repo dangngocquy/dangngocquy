@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Đặng Ngọc Quý** (Henry Đặng)
+# **Dang Ngoc Quy** (Henry Dang)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=IT+Support;Technical+Support;System+Troubleshooting;Hardware+%26+Software+Maintenance;Problem+Solver;Always+Learning+New+Skills" alt="Typing SVG" />
 
@@ -90,7 +90,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
   
-  ### **Cảm ơn bạn đã ghé thăm profile của mình!**
+  ### **Thank you for visiting my profile!**
   
  ![Profile Views](https://komarev.com/ghpvc/?username=dangngocquy&color=brightgreen&style=flat-square&label=Profile+Views)
   
