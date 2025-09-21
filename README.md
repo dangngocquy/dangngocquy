@@ -32,12 +32,12 @@
 ### **GitHub Stats**
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dangngocquy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquy&layout=compact&langs_count=8&theme=transparent&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dangngocquy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&text_color=FFFFFF&icon_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquy&layout=compact&langs_count=8&theme=transparent&hide_border=true&text_color=FFFFFF&icon_color=FFFFFF"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangngocquy&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangngocquy&theme=transparent&hide_border=true&text_color=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak" />
 </div>
 
 ---
@@ -62,7 +62,7 @@
 ### **Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dangngocquy&theme=minimal&hide_border=true&area=true&bg_color=00000000" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dangngocquy&theme=minimal&hide_border=true&area=true&bg_color=00000000&color=FFFFFF&text_color=FFFFFF&point=FFFFFF" />
 </div>
 
 ---
@@ -70,7 +70,7 @@
 ### **Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dangngocquy&no-bg=true&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dangngocquy&no-bg=true&no-frame=true&row=1&column=6&title_color=FFFFFF&icon_color=FFFFFF" />
 </div>
 
 ---
