@@ -1,108 +1,254 @@
 <div align="center">
 
 # **Dang Ngoc Quy** (Henry Dang)
+*IT Support Specialist & Full Stack Developer*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=IT+Support;Technical+Support;Troubleshooting;Hardware+%26+Software+Maintenance;Problem+Solver;Always+Learning+New+Skills" alt="Typing SVG" /><img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake eating commits" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=IT+Support+%7C+Technical+Support+%7C+Troubleshooting;Full+Stack+Developer+%7C+Problem+Solver;Always+Learning+%7C+Innovation+Focused" alt="Typing SVG" />
 
 ---
 
-### **Tech Stack & Tools**
+## 📑 **Table of Contents**
 
+<details>
+<summary><b>🏠 Overview</b></summary>
+
+### **About Me**
+I'm a passionate IT Support Specialist and Full Stack Developer with expertise in troubleshooting, system maintenance, and building innovative web applications. I love solving complex problems and creating user-friendly solutions.
+
+### **Current Status**
+- 🔭 Currently working on multi-brand survey collection systems
+- 🌱 Learning advanced cloud technologies and DevOps
+- 👯 Looking to collaborate on open source projects
+- 💬 Ask me about IT Support, React, Node.js, or system troubleshooting
+- 📫 How to reach me: dangngocquy.business@gmail.com
+- ⚡ Fun fact: I enjoy automating repetitive tasks and creating efficient workflows
+
+</details>
+
+---
+
+<details>
+<summary><b>💻 Tech Stack & Skills</b></summary>
+
+### **IT Support & Infrastructure**
 <div align="center">
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
-![Mobile OS](https://img.shields.io/badge/Mobile%20OS-34A853?style=for-the-badge&logo=android&logoColor=white)
-![DNS](https://img.shields.io/badge/DNS-00A1D6?style=for-the-badge&logo=cloudflare&logoColor=white)
-![DHCP](https://img.shields.io/badge/DHCP-FF5722?style=for-the-badge&logo=network&logoColor=white)
-![VPN](https://img.shields.io/badge/VPN-00BCD4?style=for-the-badge&logo=openvpn&logoColor=white)
-![Tickets](https://img.shields.io/badge/Tickets-9C27B0?style=for-the-badge&logo=servicenow&logoColor=white)
-![Assets](https://img.shields.io/badge/Assets-2196F3?style=for-the-badge&logo=asset-management&logoColor=white)
-![HW Troubleshoot](https://img.shields.io/badge/HW%20Troubleshoot-8BC34A?style=for-the-badge&logo=tools&logoColor=white)
-![User Support](https://img.shields.io/badge/User%20Support-F44336?style=for-the-badge&logo=support&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS%20Support-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![DNS Management](https://img.shields.io/badge/DNS-1F8ACB?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DHCP Config](https://img.shields.io/badge/DHCP-FF6B35?style=for-the-badge&logo=router&logoColor=white)
+![VPN Setup](https://img.shields.io/badge/VPN-00BCD4?style=for-the-badge&logo=openvpn&logoColor=white)
+![Network Security](https://img.shields.io/badge/Network%20Security-E74C3C?style=for-the-badge&logo=security&logoColor=white)
 
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![ServiceNow](https://img.shields.io/badge/ServiceNow-81B441?style=for-the-badge&logo=servicenow&logoColor=white)
+![Asset Management](https://img.shields.io/badge/Asset%20Management-2196F3?style=for-the-badge&logo=database&logoColor=white)
+![Hardware Troubleshooting](https://img.shields.io/badge/Hardware%20Troubleshooting-8BC34A?style=for-the-badge&logo=tools&logoColor=white)
+![User Support](https://img.shields.io/badge/24/7%20User%20Support-F44336?style=for-the-badge&logo=support&logoColor=white)
 
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+</div>
+
+### **Development Technologies**
+<div align="center">
+
+**Frontend**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=api&logoColor=white)
+
+**Database**
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**DevOps & Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
 
 </div>
+
+</details>
 
 ---
 
-### **GitHub Stats**
+<details>
+<summary><b>📊 GitHub Analytics</b></summary>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dangngocquy&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&hide_border=true&text_color=2196F3&icon_color=2196F3"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquy&layout=compact&langs_count=8&theme=transparent&hide_border=true&text_color=2196F3&icon_color=2196F3"/>
+
+### **Performance Metrics**
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dangngocquy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&border_color=30363D"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dangngocquy&layout=compact&langs_count=10&theme=tokyonight&border_radius=10&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&border_color=30363D"/>
+
+### **Contribution Activity**
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=dangngocquy&theme=tokyonight&border_radius=10&background=0D1117&stroke=30363D&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" alt="GitHub Streak" />
+
+### **Contribution Graph**
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dangngocquy&theme=tokyo-night&bg_color=0D1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=true" />
+
+### **Profile Trophy**
+
+<img src="https://github-profile-trophy.vercel.app/?username=dangngocquy&theme=tokyonight&no-bg=true&no-frame=true&row=1&column=7&margin-w=15&margin-h=15&title_color=00D4FF&icon_color=00D4FF" />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangngocquy&theme=transparent&hide_border=true&text_color=2196F3&sideNums=2196F3&sideLabels=2196F3" alt="GitHub Streak" />
-</div>
+</details>
 
 ---
 
-### **Featured Projects**
+<details>
+<summary><b>🚀 Featured Projects</b></summary>
 
 <div align="center">
 
-| **Project** | **Description** | **Tech Stack** | **Website** |
+### **Production Applications**
+
+</div>
+
+| **🎯 Project** | **📝 Description** | **⚡ Tech Stack** | **🌐 Live Demo** | **📈 Status** |
+|---|---|---|---|---|
+| **[checklist_niso](https://github.com/dangngocquy/checklist_niso)** | Internal workflow management with intuitive UI and real-time updates | `React` `Node.js` `MongoDB` | [🔗 Demo](https://css.niso.com.vn:3008/) | ![Production](https://img.shields.io/badge/Status-Production-brightgreen) |
+| **[css_niso](https://github.com/dangngocquy/css_niso)** | Multi-brand survey platform with advanced analytics | `Express` `MSSQL` `Ant Design` | [🔗 Demo](https://css.niso.com.vn:3008/) | ![Production](https://img.shields.io/badge/Status-Production-brightgreen) |
+| **[maycha_checklist](https://github.com/dangngocquy/maycha_checklist)** | Automated checklist system with voucher management | `Node.js` `React` `Firebase` | [🔗 Demo](https://checklist.tamhao.com.vn/) | ![Production](https://img.shields.io/badge/Status-Production-brightgreen) |
+| **[report_niso](https://github.com/dangngocquy/report_niso)** | Intelligent risk assessment and reporting dashboard | `Python` `JavaScript` `MongoDB` | [🔗 Demo](https://report.niso.com.vn:3000/) | ![Production](https://img.shields.io/badge/Status-Production-brightgreen) |
+
+<div align="center">
+
+### **Development Projects**
+
+</div>
+
+| **🎯 Project** | **📝 Description** | **⚡ Tech Stack** | **📈 Status** |
 |---|---|---|---|
-| [**checklist_niso**](https://github.com/dangngocquy/checklist_niso) | Internal Checklist application with friendly interface | React, Node.js, MongoDB | [<a href="https://css.niso.com.vn:3008/" target="_blank" rel="noopener noreferrer">Demo</a>] |
-| [**css_niso**](https://github.com/dangngocquy/css_niso) | Multi-brand survey collection and management system | Express, MSSQL, Ant Design | [<a href="https://css.niso.com.vn:3008/" target="_blank" rel="noopener noreferrer">Demo</a>] |
-| [**maycha_checklist**](https://github.com/dangngocquy/maycha_checklist) | Automatic check list and voucher management system | Node.js, React, Firebase | [<a href="https://checklist.tamhao.com.vn/" target="_blank" rel="noopener noreferrer">Demo</a>] |
-| [**report_niso**](https://github.com/dangngocquy/report_niso) | Smart risk reporting system | Python, JavaScript, MongoDB | [<a href="https://report.niso.com.vn:3000/" target="_blank" rel="noopener noreferrer">Demo</a>] |
-| [**lucky_draw**](https://github.com/dangngocquy/lucky_draw) | Lucky draw application with beautiful effects | React, CSS Animation | — |
-| [**vietinbank_api**](https://github.com/dangngocquy/vietinbank_api) | API integration for Vietinbank | Node.js, Express, REST API | — |
-
-</div>
-
----
-
-### **Activity Graph**
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dangngocquy&theme=minimal&hide_border=true&area=true&bg_color=00000000&color=2196F3&text_color=2196F3&point=2196F3" />
-</div>
-
----
-
-### **Achievements**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dangngocquy&theme=flat&no-bg=true&no-frame=true&row=1&column=6&title_color=2196F3&icon_color=2196F3&margin-w=10" />
-</div>
-
----
-
-### **Connect With Me**
+| **[lucky_draw](https://github.com/dangngocquy/lucky_draw)** | Interactive lucky draw with stunning animations | `React` `CSS Animation` | ![Development](https://img.shields.io/badge/Status-Development-yellow) |
+| **[vietinbank_api](https://github.com/dangngocquy/vietinbank_api)** | Banking API integration service | `Node.js` `Express` `REST API` | ![Development](https://img.shields.io/badge/Status-Development-yellow) |
 
 <div align="center">
 
-[![Contact](https://img.shields.io/badge/Contact_Service-FF5722?style=for-the-badge&logo=web&logoColor=white)](http://dangngocquy.id.vn/contact)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dangngocquy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangngocquy.business@gmail.com)
+### **Key Features Across Projects**
+`🔐 Authentication Systems` • `📊 Real-time Analytics` • `🎨 Responsive Design` • `⚡ Performance Optimized` • `🛡️ Security Focused` • `📱 Mobile Friendly`
 
 </div>
+
+</details>
+
+---
+
+<details>
+<summary><b>🏆 Achievements & Certifications</b></summary>
+
+<div align="center">
+
+### **Professional Achievements**
+
+![Experience](https://img.shields.io/badge/Experience-5%2B%20Years-blue?style=for-the-badge&logo=calendar&logoColor=white)
+![Projects](https://img.shields.io/badge/Projects%20Completed-15%2B-green?style=for-the-badge&logo=project&logoColor=white)
+![Clients](https://img.shields.io/badge/Satisfied%20Clients-50%2B-orange?style=for-the-badge&logo=users&logoColor=white)
+
+### **Technical Certifications**
+- 🎓 **IT Support Specialist Certification**
+- 🔧 **Hardware & Network Troubleshooting**
+- 💻 **Full Stack Development**
+- 🛡️ **Cybersecurity Fundamentals**
+- ☁️ **Cloud Infrastructure Management**
+
+### **Specializations**
+- 🔍 **System Diagnostics & Performance Optimization**
+- 🌐 **Network Configuration & Security**
+- 📱 **Cross-platform Application Development**
+- 📊 **Database Design & Management**
+- 🤝 **Customer Service Excellence**
+
+</div>
+
+</details>
+
+---
+
+<details>
+<summary><b>📞 Connect & Collaborate</b></summary>
+
+<div align="center">
+
+### **Let's Build Something Amazing Together!**
+
+[![Portfolio](https://img.shields.io/badge/🌟_Portfolio-Visit_My_Website-FF6B6B?style=for-the-badge&logoColor=white)](http://dangngocquy.id.vn/contact)
+[![GitHub](https://img.shields.io/badge/💻_GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dangngocquy)
+[![Email](https://img.shields.io/badge/📧_Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangngocquy.business@gmail.com)
+
+### **What I Can Help You With**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🔧 IT Support Services**
+- System troubleshooting
+- Network configuration
+- Hardware maintenance
+- User support & training
+
+</td>
+<td align="center" width="33%">
+
+**💻 Web Development**
+- Full-stack applications
+- Database design
+- API integration
+- Performance optimization
+
+</td>
+<td align="center" width="33%">
+
+**🚀 Project Collaboration**
+- Open source contributions
+- Technical consultation
+- Code reviews
+- Mentorship
+
+</td>
+</tr>
+</table>
+
+### **Availability**
+🕒 **Monday - Friday:** 8:00 AM - 6:00 PM (GMT+7)  
+🕒 **Weekend:** Available for urgent issues  
+⚡ **Response Time:** Within 2-4 hours
+
+</div>
+
+</details>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
-  
-  ### **Thank you for visiting my profile!**
-  
- ![Profile Views](https://komarev.com/ghpvc/?username=dangngocquy&color=brightgreen&style=flat-square&label=Profile+Views)
-  
+
+### **"Code with passion, support with care, innovate with purpose"**
+
+![Snake Animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=dangngocquy&color=00D4FF&style=for-the-badge&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/dangngocquy?color=00D4FF&style=for-the-badge&logo=github&logoColor=white&label=Followers)
+![Stars](https://img.shields.io/github/stars/dangngocquy?color=00D4FF&style=for-the-badge&logo=star&logoColor=white&label=Total+Stars)
+
+**💫 Thank you for visiting! Feel free to explore my repositories and connect with me! 💫**
+
 </div>
