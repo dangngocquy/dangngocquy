@@ -91,8 +91,8 @@
 <div align="center">
 
 [![Contact](https://img.shields.io/badge/Contact_Service-FF5722?style=for-the-badge&logo=web&logoColor=white)](http://dangngocquy.id.vn/contact)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style-for-the-badge&logo=github&logoColor=white)](https://github.com/dangngocquy)
-[![Email](https://img.shields.io/badge/Email-D14836?style-for-the-badge&logo=gmail&logoColor=white)](mailto:dangngocquy.business@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dangngocquy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dangngocquy.business@gmail.com)
 
 </div>
 
