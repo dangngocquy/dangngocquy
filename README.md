@@ -1,28 +1,8 @@
 <div align="center">
 
-# 👋 Xin chào! Mình là **Đặng Ngọc Quý** (Henry Đặng)
+# 👋 **Đặng Ngọc Quý** (Henry Đặng)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Always+learning+new+things" alt="Typing SVG" />
-
----
-
-### 🚀 **About Me**
-```javascript
-const henryDang = {
-    location: "Ho Chi Minh City, Vietnam",
-    code: ["JavaScript", "Python", "Node.js", "React"],
-    askMeAbout: ["web dev", "system design", "database", "automation"],
-    technologies: {
-        frontEnd: ["React", "JavaScript", "HTML", "CSS", "Ant Design"],
-        backEnd: ["Node.js", "Express", "Python"],
-        database: ["MongoDB", "MSSQL", "Firebase"],
-        devOps: ["Nginx", "Ubuntu", "Docker"],
-        tools: ["Git", "VS Code", "Postman"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
-```
 
 ---
 
