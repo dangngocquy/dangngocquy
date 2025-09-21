@@ -48,12 +48,12 @@
 
 | **Project** | **Description** | **Tech Stack** | **Website** |
 |---|---|---|---|
-| [**checklist_niso**](https://github.com/dangngocquy/checklist_niso) | Ứng dụng Checklist nội bộ với giao diện thân thiện | React, Node.js, MongoDB | [Demo](https://css.niso.com.vn:3008/) |
-| [**css_niso**](https://github.com/dangngocquy/css_niso) | Hệ thống thu thập và quản trị khảo sát đa thương hiệu | Express, MSSQL, Ant Design | [Demo](https://css.niso.com.vn:3008/) |
-| [**maycha_checklist**](https://github.com/dangngocquy/maycha_checklist) | Hệ thống quản lý checklist và phiếu tự động | Node.js, React, Firebase | [Demo](https://checklist.tamhao.com.vn/) |
-| [**report_risc**](https://github.com/dangngocquy/report_nisc) | Hệ thống báo cáo rủi ro thông minh | Python, JavaScript, MongoDB | — |
-| [**lucky_draw**](https://github.com/dangngocquy/lucky_draw) | Ứng dụng bốc thăm may mắn với hiệu ứng đẹp | React, CSS Animation | — |
-| [**vietinbank_api**](https://github.com/dangngocquy/vietinbank_api) | API integration cho Vietinbank | Node.js, Express, REST API | — |
+| [**checklist_niso**](https://github.com/dangngocquy/checklist_niso) | Internal Checklist application with friendly interface | React, Node.js, MongoDB | [Demo](https://css.niso.com.vn:3008/) |
+| [**css_niso**](https://github.com/dangngocquy/css_niso) | Multi-brand survey collection and management system | Express, MSSQL, Ant Design | [Demo](https://css.niso.com.vn:3008/) |
+| [**maycha_checklist**](https://github.com/dangngocquy/maycha_checklist) | Automatic check list and voucher management system | Node.js, React, Firebase | [Demo](https://checklist.tamhao.com.vn/) |
+| [**report_risc**](https://github.com/dangngocquy/report_nisc) | Smart risk reporting system | Python, JavaScript, MongoDB | — |
+| [**lucky_draw**](https://github.com/dangngocquy/lucky_draw) | Lucky draw application with beautiful effects | React, CSS Animation | — |
+| [**vietinbank_api**](https://github.com/dangngocquy/vietinbank_api) | API integration for Vietinbank | Node.js, Express, REST API | — |
 
 </div>
 
