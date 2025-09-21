@@ -1,5 +1,3 @@
-<div align="center">
-
 # **Dang Ngoc Quy** (Henry Dang)
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=IT+Support;Technical+Support;Troubleshooting;Hardware+%26+Software+Maintenance;Problem+Solver;Always+Learning+New+Skills" alt="Typing SVG" />
@@ -24,6 +22,17 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style-for-the-badge&logo=ubuntu&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![MobileOS](https://img.shields.io/badge/MobileOS-34A853?style=for-the-badge&logo=android&logoColor=white)
+![DNS](https://img.shields.io/badge/DNS-00A1D6?style=for-the-badge&logo=cloudflare&logoColor=white)
+![DHCP](https://img.shields.io/badge/DHCP-FF5722?style-for-the-badge&logo=network&logoColor=white)
+![VPN](https://img.shields.io/badge/VPN-00BCD4?style-for-the-badge&logo=openvpn&logoColor=white)
+![Ticket Management](https://img.shields.io/badge/Ticket%20Management-9C27B0?style-for-the-badge&logo=servicenow&logoColor=white)
+![Asset Management](https://img.shields.io/badge/Asset%20Management-2196F3?style-for-the-badge&logo=asset-management&logoColor=white)
+![Hardware Troubleshooting](https://img.shields.io/badge/Hardware%20Troubleshooting-8BC34A?style-for-the-badge&logo=tools&logoColor=white)
+![End-user Support](https://img.shields.io/badge/End-user%20Support-F44336?style-for-the-badge&logo=support&logoColor=white)
 
 </div>
 
