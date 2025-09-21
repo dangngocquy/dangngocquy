@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff" />
 <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=fff" />
 <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=fff" />
 <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=000" />
 <img src="https://img.shields.io/badge/-Ant%20Design-0170FE?style=flat&logo=antdesign&logoColor=fff" />
 <img src="https://img.shields.io/badge/-Express-000?style=flat&logo=express&logoColor=fff" />
