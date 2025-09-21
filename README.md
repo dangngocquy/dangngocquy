@@ -37,7 +37,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangngocquy&theme=github_light&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dangngocquy&theme=transparent&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -62,7 +62,7 @@
 ### **Activity Graph**
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dangngocquy&theme=github-light&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dangngocquy&theme=minimal&hide_border=true&area=true&bg_color=00000000" />
 </div>
 
 ---
@@ -70,7 +70,7 @@
 ### **Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dangngocquy&theme=flat&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dangngocquy&theme=transparent&no-frame=true&row=1&column=6" />
 </div>
 
 ---
