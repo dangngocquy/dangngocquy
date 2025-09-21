@@ -70,7 +70,7 @@
 ### **Achievements**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dangngocquy&theme=transparent&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dangngocquy&no-bg=true&no-frame=true&row=1&column=6" />
 </div>
 
 ---
